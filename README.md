@@ -1,4 +1,4 @@
 # Drum-Kit
-* Drum Kit using HTML,CSS and JS 
+* Drum Kit using javascript 
 * https://pravinpadalkar78.github.io/Drum-Kit/
 * keyboard is Required
